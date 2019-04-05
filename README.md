@@ -1,5 +1,7 @@
 # Lesson X - Lesson Name
 
+[![Build Status](https://travis-ci.org/wellesley-bisc195/lesson_template.svg?branch=master)](https://travis-ci.org/wellesley-bisc195/lesson_template)
+
 [Lesson repository](#)
 
 [Lesson Docs Link](#)
