@@ -6,6 +6,13 @@
 
 [Lesson Docs Link](#)
 
+## Steps to copying template
+
+- [ ] Find/Replace all "LessonX" => "Lesson{#}"
+- [ ] rename `src/LessonX.jl` => `src/Lesson{#}`
+- [ ] change uuid in `Project.toml` (`$ julia -e 'using UUIDs; println(UUIDs.uuid4())'`)
+- [ ] delete this header block from readme
+
 ## Learning Objectives
 
 **Concepts** - After completing this lesson, students will be able to:
