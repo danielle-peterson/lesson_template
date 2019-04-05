@@ -1,3 +1,6 @@
+name="LessonX"
+uuid="782653ff-48a0-47fd-aa4c-0afbe2ef67e4"
+
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
