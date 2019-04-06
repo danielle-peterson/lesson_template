@@ -9,7 +9,7 @@ makedocs(
     )
 
 deploydocs(
-    repo = "github.com/kescobo/BISC195_LessonX.git",
+    repo = "github.com/wellesley-bisc195/lesson_template",
     julia  = "1.1",
     latest = "master",
     target = "build",
