@@ -12,6 +12,7 @@
 - [ ] rename `src/LessonX.jl` => `src/Lesson{#}`
 - [ ] change uuid in `Project.toml` (`$ julia -e 'using UUIDs; println(UUIDs.uuid4())'`)
 - [ ] change package url in `docs/build.jl`
+- [ ] change urls for build/docs in README.md
 - [ ] delete this header block from readme
 
 ## Learning Objectives
