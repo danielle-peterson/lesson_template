@@ -1,10 +1,10 @@
 # Lesson X - Lesson Name
 
-[![Build Status](https://travis-ci.org/wellesley-bisc195/lesson_template.svg?branch=master)](https://travis-ci.org/wellesley-bisc195/lesson_template)
+| **Documentation**                       | **Build Status**                 |
+|:---------------------------------------:|:--------------------------------:|
+| [![][docs-stable-img]][docs-stable-url] | [![][travis-img]][travis-url]    |
 
 [Lesson repository](#)
-
-[Lesson Docs Link](#)
 
 ## Steps to copying template
 
@@ -29,3 +29,10 @@
 ## Description
 
 In this lesson ...
+
+
+[docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
+[docs-stable-url]: https://juliadocs.github.io/Documenter.jl/stable
+
+[travis-img]: https://travis-ci.org/wellesley-bisc195/lesson_template.svg?branch=master
+[travis-url]: https://travis-ci.org/wellesley-bisc195/
