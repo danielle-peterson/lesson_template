@@ -32,7 +32,7 @@ In this lesson ...
 
 
 [docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-stable-url]: https://juliadocs.github.io/Documenter.jl/stable
+[docs-stable-url]: https://wellesley-bisc195.github.io/lesson_template/stable
 
 [travis-img]: https://travis-ci.org/wellesley-bisc195/lesson_template.svg?branch=master
 [travis-url]: https://travis-ci.org/wellesley-bisc195/
